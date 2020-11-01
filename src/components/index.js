@@ -1,2 +1,2 @@
-export { component1 } from "./component1";
-export { component2 } from "./component2";
+export { component1 } from './component1';
+export { component2 } from './component2';
